@@ -1,6 +1,6 @@
 # Zhou Yi Kelvin — Personal Portfolio
 
-A responsive, static portfolio for [zhoube.github.io](https://zhoube.github.io).
+A responsive, static portfolio for [zhouyikelvin.github.io](https://zhouyikelvin.github.io).
 
 ## Files
 
