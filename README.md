@@ -1,4 +1,4 @@
-# Zhou Yi Kelvin — Personal Portfolio
+# Zhou Yi Kelvin | Personal Portfolio
 
 A responsive, static portfolio for [zhouyikelvin.github.io](https://zhouyikelvin.github.io).
 
@@ -27,4 +27,4 @@ GitHub Pages publishes the root of the `main` branch. Editing and pushing the st
 
 ## Content
 
-Professional background is based on the supplied resume, the GitHub profile README, and previously verified LinkedIn experience. Work experience is the main focus, with all five roles expanded by default. A compact Chess Tournament Timesheet feature connects engineering with personal interests; its description is grounded in the public project repository.
+Professional background is based on the supplied resume, the GitHub profile README, and previously verified LinkedIn experience. Work experience is the main focus, with all five roles expanded by default and the toolkit directly below them. Section 2 covers the NUS double degree and Merit Scholarship. Section 3 covers chess and Red Cross service, including the Chess Tournament Timesheet. The user confirmed that the timesheet was built without AI assistance; that statement applies to the timesheet app.
